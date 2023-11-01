@@ -1,0 +1,180 @@
+li {
+ list-style-position:inside;
+ FONT-SIZE: 14px; 
+ font-weight:bold;
+ COLOR: #000;
+ FONT-FAMILY: Arial;
+ padding-right:5px;
+ text-align:justify;
+ line-height:18px;
+}
+li>p {
+font-weight:normal;
+}
+.z1{color:black;text-align:center;font-size:14pt;font-family:TIMES NEW ROMAN CYR;font-style:italic;}
+.z2{color:black;text-align:center;font-size:12pt;font-family:TIMES NEW ROMAN CYR;font-style:normal;}
+.z3{color:black;text-align:left;font-size:12pt;font-family:TIMES NEW ROMAN CYR;font-style:normal;font-weight:bold;}
+.z4{margin-left: 20px;color: black;font-family: TIMES NEW ROMAN CYR;font-size: 12pt;text-align: justify;}
+.zz5{
+	color: black;
+	font-family: TIMES NEW ROMAN CYR;
+	font-size: 12px;
+	text-align: left;
+}
+.zi4{
+	margin-left: 20px;
+	color: black;
+	font-family: TIMES NEW ROMAN CYR;
+	font-size: 12pt;
+	text-align: justify;
+	font-style: italic;
+}
+.zz4{
+	margin-left: 20px;
+	color: black;
+	font-family: TIMES NEW ROMAN CYR;
+	font-size: 12px;
+	text-align: justify;
+	text-indent: 18pt;
+}
+.z5{color:black;font-size:12.0pt;font-family:TIMES NEW ROMAN CYR;text-transform:uppercase;background:aqua;text-align:center;}
+.z8{margin-left:420px;color:black;font-family:TIMES NEW ROMAN CYR;font-size:10pt;font : normal italic;text-align:left}
+.zz8{margin-left:320px;color:black;font-family:TIMES NEW ROMAN CYR;font-size:10pt;font : normal italic;text-align:left}
+.t1{color:blac;font-size:12.0pt;font-weight:bold;font-family:TIMES NEW ROMAN CYR;}
+.k0{
+	color: Black;
+	text-align: center;
+	font-size: large;
+	font-family: TIMES NEW ROMAN CYR;
+	font-style: normal;
+	font: bold;
+}
+.k1{
+	color: Red;
+	text-align: center;
+	font-size: x-large;
+	font-family:TIMES NEW ROMAN CYR;
+	font-style: normal;
+	font : bold;
+}
+.k2{
+	color: Red;
+	text-align: center;
+	font-size: small;
+	font-family:TIMES NEW ROMAN CYR;
+	font-style: normal;
+	font : bold;
+	font-weight : normal;
+}
+.k3{
+	color: Red;
+	text-align: right;
+	font-size: small;
+	font-family:TIMES NEW ROMAN CYR;
+	font-style: normal;
+	font : normal italic;
+	font-weight : normal;
+}
+.z6{
+	color: Black;
+	text-align: right;
+	font-size: 10px;
+	font-family: TIMES NEW ROMAN CYR;
+	font-style: normal;
+	font: normal italic;
+	font-weight: normal;
+}
+.l6{
+	color: Black;
+	text-align: right;
+	font-size: medium;
+	font-family: TIMES NEW ROMAN CYR;
+	font-style: normal;
+	font: normal italic;
+	font-weight: normal;
+}
+.link1 {
+	color: Red;
+	text-align: center;
+	font-size: small;
+	font-family:TIMES NEW ROMAN CYR;
+	font-style: normal;
+	font : bold;
+	font-weight : normal;
+	text-decoration : none;
+}
+A.link1:hover {text-decoration: none; color: #339966;}
+.z7{
+	color: Black;
+	text-align: center;
+	font-size: xx-small;
+	font-family:TIMES NEW ROMAN CYR;
+	font-style: normal;
+	font : normal italic;
+	font-weight : normal;
+}
+.k7{
+	color: Fuchsia;
+	text-align: right;
+	font-size: x-small;
+	font-family:TIMES NEW ROMAN CYR;
+	font-style: normal;
+	font : normal italic;
+	font-weight : normal;
+}
+.z9{margin-left:20px;color:black;font-family:TIMES NEW ROMAN CYR;font-size:18px;text-align:left}
+.zz{margin-left:100px;color:black;font-family:TIMES NEW ROMAN CYR;font-size:16px;text-align:left}
+.link2 {
+	color: Navy;
+	text-align: center;
+	font-size: 12px;
+	font-family: TIMES NEW ROMAN CYR;
+	font-style: normal;
+	font: bold;
+	font-weight: normal;
+	text-decoration: none;
+}
+A.link2:hover {text-decoration: none; color: #339966;}
+.link3 {
+	color: Navy;
+	text-align: left;
+	font-size: 12px;
+	font-family: TIMES NEW ROMAN CYR;
+	font-style: normal;
+	font: bold;
+	font-weight: normal;
+	text-decoration: none;
+}
+A.link3:hover {text-decoration: none; color: #339966;}
+
+.link4 {	color: Black;text-align: center;font-size: larger;font-family: TIMES NEW ROMAN CYR;font-style: normal;font: bold;font-weight: normal;text-decoration: none;}
+A.link4:hover {text-decoration: none;color: #00008B;}
+.link5 {
+	color: Black;
+	text-align: center;
+	font-size: x-large;
+	font-family: TIMES NEW ROMAN CYR;
+	font-style: normal;
+	font: bold;
+	font-weight: normal;
+	text-decoration: underline;
+}
+A.link5:hover {text-decoration: none;color: #00008B;}
+.gallery img, .gallery-inner img { 
+	BORDER-RIGHT: #230b00 1px solid; BORDER-TOP: #230b00 1px solid; MARGIN: 5px; BORDER-LEFT: #230b00 1px solid; BORDER-BOTTOM: #230b00 1px solid
+}
+}
+#duo {
+	PADDING-LEFT: 65px;
+	MARGIN: 0px auto;
+	WIDTH: 205px;
+	HEIGHT: auto;
+	float: left;
+	padding-top: 10px;
+}
+.zzn4a {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: TIMES NEW ROMAN CYR; TEXT-ALIGN: justify
+}
+.hnl {
+	FONT-SIZE: 14pt; COLOR: #000000; FONT-STYLE: italic; FONT-FAMILY: TIMES NEW ROMAN CYR; TEXT-ALIGN: right
+}
